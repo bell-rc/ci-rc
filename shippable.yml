@@ -2,4 +2,4 @@ language: c
 compiler: gcc
 build:
   ci:
-    - echo "helo world"
+    - echo "helo world!"
