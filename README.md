@@ -1,5 +1,3 @@
 # ci-rc
 
-This is a sample test to check Shippable RC builds
-
-This is a sample test from public fork PR of public user
+pull request from prfrombell project of bell-rc subscription to master of shiphitchcock1 for public project
