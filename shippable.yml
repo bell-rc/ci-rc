@@ -1,5 +1,7 @@
 language: c
+
 compiler: gcc
+
 build:
   ci:
-    - echo "helo world"
+    - echo "hello world"
